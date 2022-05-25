@@ -1,2 +1,2 @@
 # Desafio sobre Git/Github da Dio
-Repositório criado para o desafio de projeto.
+Repositório criado para concluir o desafio de projeto proposto pela Digital Innovation One.
